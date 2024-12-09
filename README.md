@@ -26,14 +26,9 @@
 			
 </td>
 <!-- 			<td><code><img width="80" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code></td> -->
-		</tr>
-		<tr>
-			
-			
+
+
 		
-			
-		</tr>
-	</table>
 </div>
 
 </br>
