@@ -25,10 +25,10 @@
   <a href="https://www.linkedin.com/in/reza-ghorbanzadh"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:rezaghorbanzadh19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/deydm_dev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://t.me/deydm_dev"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="http://www.youtube.com/Dey-Plus"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="http://www.youtube.com/Deydm-com"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧠 Fun Quote
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+### 🔥 Powered by Passion and ☕ Caffeine
