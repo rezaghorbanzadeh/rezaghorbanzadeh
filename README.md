@@ -22,10 +22,10 @@
 
 ### 🌐 contact me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/reza-ghorbanzadh"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/reza-ghorbanzadh"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:rezaghorbanzadh19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/deydm_dev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://t.me/deydm_dev"><img src="YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://t.me/deydm_dev"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
