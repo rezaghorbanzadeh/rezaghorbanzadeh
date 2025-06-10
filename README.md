@@ -3,10 +3,10 @@
 </p>
 
 
-<h3 align="center">Full‑Stack Developer | PHP, Laravel, C#, .NET 💥</h3>
+<h3 align="center">Backend Developer | PHP, Laravel, C#, .NET 💥</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,docker,js,ts,java,cs,net&perline=7" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,docker,js,cs,net&perline=7" />
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=rezaghorbanzadeh&show_icons=true&theme=radical)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rezaghorbanzadeh&theme=radical)
 </p>
 
 ---
