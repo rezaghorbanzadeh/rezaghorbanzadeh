@@ -16,14 +16,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=rezaghorbanzadeh&show_icons=true&theme=radical)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rezaghorbanzadeh&theme=radical)
-</p>
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=rezaghorbanzadeh&theme=gruvbox" alt="GitHub Streak" /></a>
 
 ---
 
-### 🌐 با من در ارتباط باش
+### 🌐 contact me
 <p align="center">
   <a href="https://linkedin.com/in/YourLinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
